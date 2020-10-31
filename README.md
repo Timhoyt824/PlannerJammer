@@ -5,7 +5,8 @@ This is a work scheduler using a bootstrap framework and utilizing moments.js fo
  
  ## Deployed Site
 
-[PlannerJammer](https://timhoyt824.github.io/jsquizPlannerJammer/)
+[PlannerJammer](https://timhoyt824.github.io/PlannerJammer/)
+
 
 ## License
 
